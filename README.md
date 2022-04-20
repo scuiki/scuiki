@@ -9,7 +9,7 @@ Hey there! I'm Leo, brazilian student currently majoring in Computer Engineering
 </div>
 
   ##
-Find me at
+  
 <div> 
   <a href="https://instagram.com/leo.kuntz" target="_blank"><img src="https://user-images.githubusercontent.com/99610937/164128301-7deae119-df07-43d5-9c23-cffdcc70f21b.gif" target="_blank"></a>
  
