@@ -1,4 +1,4 @@
-Hey there! I'm Leo, a brazilian student currently majoring in Computer Engineering.
+## Hey there! I'm Leo, a brazilian student currently majoring in Computer Engineering.
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
